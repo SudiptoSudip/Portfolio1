@@ -1,0 +1,52 @@
+body {
+	background-color: #f0f0f5;
+	color: #555;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+.container {
+	width: 50%;
+	margin: auto;
+	overflow: auto;
+}
+.about{
+	margin: auto;
+	overflow: auto;
+}
+#top-header {
+	background-color: #8585ad;
+	color: #fff;
+}
+#links {
+	background-color: #e0e0eb;
+}
+#links a {
+	color:#808080;
+	text-align: right;
+}
+#links li {
+	display: inline;
+}
+#about{
+	background-color: #0acdfd;
+	color:#080808;
+}
+#main-footer {
+	text-align: center;
+	padding: 15px;
+	margin-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
